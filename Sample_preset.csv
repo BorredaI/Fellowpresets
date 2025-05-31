@@ -1,0 +1,9 @@
+ProcedureTypeName,ProcedureTypeTarget,StatusName,StatusTarget
+PCI,10,Operator,5
+PCI,10,Assistant,3
+Echo,8,Operator,4
+Echo,8,Observer,2
+TEE,6,Assistant,3
+Cath Lab,12,Operator,7
+Cath Lab,12,Assistant,3
+Holter,4,Observer,2
