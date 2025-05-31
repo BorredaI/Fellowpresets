@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Sample",
+    "url": "https://raw.githubusercontent.com/BorredaI/Fellowpresets/main/Sample_preset.csv"
+  },
+  {
+    "name": "Cardiology",
+    "url": "https://raw.githubusercontent.com/BorredaI/Fellowpresets/main/Cardiology.csv"
+  },
+  {
+    "name": "Interventional Cardiology",
+    "url": "https://raw.githubusercontent.com/BorredaI/Fellowpresets/main/interventional.csv"
+  }
+]
