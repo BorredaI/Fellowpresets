@@ -1,4 +1,4 @@
-ProcedureTypeName,ProcedureTypeTarget,StatusName,StatusTarget
+Procedure Type,Target Count,Status Name,Status Target
 PCI,10,Operator,5
 PCI,10,Assistant,3
 Echo,8,Operator,4
