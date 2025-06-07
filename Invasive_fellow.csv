@@ -1,0 +1,7 @@
+Procedure Type,Target Count,Status Name,Status Target
+Diagnostic,,Operator,
+Diagnostic,,Assistant,
+PCI (any),400,Operator,200
+PCI (any),400,Assistant,200
+PCI - ACS,,Operator,100
+PCI - STEMI (urgent/successful),,Operator,40
