@@ -10,5 +10,10 @@
   {
     "name": "Interventional Cardiology",
     "url": "https://raw.githubusercontent.com/BorredaI/Fellowpresets/refs/heads/main/Invasive_fellow.csv"
+  },
+  {
+    "name": "Pulmonology",
+    "url": "https://raw.githubusercontent.com/BorredaI/Fellowpresets/refs/heads/main/Pulmonology.csv"
   }
 ]
+
